@@ -1,7 +1,7 @@
 Attendance-python
 ==============
 
-Small program for basic interface and logging of NFC tags on the Raspberry Pi
+A small program that scans NFC and RFID tags and sends the UID to the SjtekControl core.
 
 
 Pre Requisites
